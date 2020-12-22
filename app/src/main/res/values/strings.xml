@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layoutsitss</string>
+    <string name="btn_back"><![CDATA[<--]]></string>
+    <string name="as_play">Как играем?</string>
+    <string name="offline">Оффлайн</string>
+    <string name="online">Онлайн</string>
+</resources>
